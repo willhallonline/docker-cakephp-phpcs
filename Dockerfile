@@ -1,4 +1,4 @@
-FROM willhallonline/phpcs:2.9
+FROM willhallonline/phpcs
 MAINTAINER Will Hall "will@willhallonline.co.uk"
 
 # Install CakePHP Coding Standards
